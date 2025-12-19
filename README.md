@@ -1,4 +1,4 @@
-# 🐱 Chatbot Ollama RAG
+# 🐱 Chatbot for Cats Questions! (RAG)
 
 A local Retrieval-Augmented Generation (RAG) chatbot that answers questions about cats using data scraped from *The Conversation*. This project demonstrates how to build a privacy-focused, local AI application using **Ollama**, **LangChain**, **ChromaDB**, and **Streamlit**.
 
