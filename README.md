@@ -46,13 +46,14 @@ The `src/` directory contains scripts to build the vector database:
 ## 🚀 Installation & Setup
 
 ### Prerequisites
-1. **Install Ollama**: Download and install from [ollama.com](https://ollama.com/).
-2. **Pull Models**: Open your terminal/command prompt and run:
+1. **Operating System**: The project was developed on **Ubuntu**. Windows users are recommended to use **WSL** (Windows Subsystem for Linux) to run `make` commands, or run the Python scripts directly.
+2. **Install Ollama**: Download and install from [ollama.com](https://ollama.com/).
+3. **Pull Models**: Open your terminal/command prompt and run:
    ```bash
    ollama pull llama3.2
    ollama pull nomic-embed-text
    ```
-3. **Install Poetry**: This project uses Poetry for dependency management. If you don't have it, install it (or standard pip if you prefer).
+4. **Install Poetry**: This project uses Poetry for dependency management. If you don't have it, install it (or standard pip if you prefer).
 
 ### Project Setup
 1. Clone this repository.
