@@ -97,7 +97,7 @@ poetry run streamlit run src/streamlit.py
 ```
 
 Once the command runs, a local URL (usually `http://localhost:8501`) will appear. Open it in your browser to start chatting with the ✨ **Cat Q&A** ✨ bot!
-![alt text](image-1.png)
+![alt text](image.png)
 
 ---
 *Created for the purpose of demonstrating a local RAG pipeline.*
